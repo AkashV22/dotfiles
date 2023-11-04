@@ -25,4 +25,3 @@ set relativenumber number
 syntax on
 filetype on
 
-
