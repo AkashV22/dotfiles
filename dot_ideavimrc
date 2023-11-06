@@ -5,6 +5,8 @@
 
 source ~/.vimrc
 
+set clipboard+=unnamed
+
 "" -- Suggested options --
 " Don't use Ex mode, use Q for formatting.
 map Q gq
