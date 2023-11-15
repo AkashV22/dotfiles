@@ -5,6 +5,7 @@
 
 source ~/.vimrc
 
+set showmode
 set clipboard+=unnamed
 
 "" -- Suggested options --
